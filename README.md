@@ -227,20 +227,20 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 ## Interview Process & General Interview Prep
 
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
-- [ ] Cracking The Coding Interview Set 1:
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] How to Get a Job at the Big 4:
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [x] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+- [x] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+- [x] Cracking The Coding Interview Set 1:
+    - [x] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+    - [x] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+- [x] How to Get a Job at the Big 4:
+    - [x] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
-- [ ] Prep Course:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
+- [x] Prep Course:
+    - [x] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
+    - [x] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
 
 ## Pick One Language for the Interview
@@ -249,7 +249,7 @@ You can use a language you are comfortable in to do the coding part of the inter
 
 - C++
 - Java
-- Python
+- Python (PICKED!)
 
 You could also use these, but read around first. There may be caveats:
 
@@ -290,7 +290,7 @@ If you have tons of extra time:
 
 If short on time:
 
-- [ ] [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
+- [x] [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
     - The book was published in 2004, and is somewhat outdated, but it's a terrific resource for understanding a computer in brief.
     - The author invented [HLA](https://en.wikipedia.org/wiki/High_Level_Assembly), so take mentions and examples in HLA with a grain of salt. Not widely used, but decent examples of what assembly looks like.
     - These chapters are worth the read to give you a nice foundation:
@@ -377,7 +377,7 @@ OR:
         - [Solutions](http://blog.panictank.net/category/algorithmndesignmanualsolutions/page/2/)
     - [Errata](http://www3.cs.stonybrook.edu/~skiena/algorist/book/errata)
 
-- [ ] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+- [x] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
     - **Important:** Reading this book will only have limited value. This book is a great review of algorithms and data structures, but won't teach you how to write good code. You have to be able to code a decent solution efficiently.
     - aka CLR, sometimes CLRS, because Stein was late to the game
 
@@ -479,24 +479,24 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Prerequisite Knowledge
 
-- [ ] **Learn C**
+- [x] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
     - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
         - This is a short book, but it will give you a great handle on the C language and if you practice it a little
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
         - [answers to questions](https://github.com/lekkas/c-algorithms)
 
-- [ ] **How computers process a program:**
-    - [ ] [How CPU executes a program](https://www.youtube.com/watch?v=XM4lGflQFvA)
-    - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
-    - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
-    - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
-    - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
+- [x] **How computers process a program:**
+    - [x] [How CPU executes a program](https://www.youtube.com/watch?v=XM4lGflQFvA)
+    - [x] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
+    - [x] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
+    - [x] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
+    - [x] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
     - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
@@ -504,8 +504,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
 - [ ] [Orders of Growth (video)](https://class.coursera.org/algorithmicthink1-004/lecture/59)
 - [ ] [Asymptotics (video)](https://class.coursera.org/algorithmicthink1-004/lecture/61)
-- [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
-- [ ] [UC Berkeley Big Omega (video)](https://archive.org/details/ucberkeley_webcast_ca3e7UVmeUc)
+- [x] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
+- [x] [UC Berkeley Big Omega (video)](https://archive.org/details/ucberkeley_webcast_ca3e7UVmeUc)
 - [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [Illustrating "Big O" (video)](https://class.coursera.org/algorithmicthink1-004/lecture/63)
 - [ ] TopCoder (includes recurrence relations and master theorem):
@@ -521,7 +521,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Arrays
     - Implement an automatically resizing vector.
-    - [ ] Description:
+    - [x] Description:
         - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
         - [Basic Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html)
@@ -530,86 +530,86 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
         - [Jagged Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)
         - [Resizing arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)
-    - [ ] Implement a vector (mutable array with automatic resizing):
-        - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
-        - [ ] new raw data array with allocated memory
+    - [x] Implement a vector (mutable array with automatic resizing):
+        - [x] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
+        - [x] new raw data array with allocated memory
             - can allocate int array under the hood, just not use its features
             - start with 16, or if starting number is greater, use power of 2 - 16, 32, 64, 128
-        - [ ] size() - number of items
-        - [ ] capacity() - number of items it can hold
-        - [ ] is_empty()
-        - [ ] at(index) - returns item at given index, blows up if index out of bounds
-        - [ ] push(item)
-        - [ ] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right
-        - [ ] prepend(item) - can use insert above at index 0
-        - [ ] pop() - remove from end, return value
-        - [ ] delete(index) - delete item at index, shifting all trailing elements left
-        - [ ] remove(item) - looks for value and removes index holding it (even if in multiple places)
-        - [ ] find(item) - looks for value and returns first index with that value, -1 if not found
-        - [ ] resize(new_capacity) // private function
+        - [x] size() - number of items
+        - [x] capacity() - number of items it can hold
+        - [x] is_empty()
+        - [x] at(index) - returns item at given index, blows up if index out of bounds
+        - [x] push(item)
+        - [x] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right
+        - [x] prepend(item) - can use insert above at index 0
+        - [x] pop() - remove from end, return value
+        - [x] delete(index) - delete item at index, shifting all trailing elements left
+        - [x] remove(item) - looks for value and removes index holding it (even if in multiple places)
+        - [x] find(item) - looks for value and returns first index with that value, -1 if not found
+        - [x] resize(new_capacity) // private function
             - when you reach capacity, resize to double the size
             - when popping an item, if size is 1/4 of capacity, resize to half
-    - [ ] Time
+    - [x] Time
         - O(1) to add/remove at end (amortized for allocations for more space), index, or update
         - O(n) to insert/remove elsewhere
-    - [ ] Space
+    - [x] Space
         - contiguous in memory, so proximity helps performance
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
 - ### Linked Lists
-    - [ ] Description:
-        - [ ] [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
-        - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
-        - [ ] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
-    - [ ] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
+    - [x] Description:
+        - [x] [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
+        - [x] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
+        - [x] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
+    - [x] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
             - not the whole video, just portions about Node struct and memory allocation.
-    - [ ] Linked List vs Arrays:
+    - [x] Linked List vs Arrays:
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
         - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
-    - [ ] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
-    - [ ] Gotcha: you need pointer to pointer knowledge:
+    - [x] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
+    - [x] Gotcha: you need pointer to pointer knowledge:
         (for when you pass a pointer to a function that may change the address where that pointer points)
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
         - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
-    - [ ] implement (I did with tail pointer & without):
-        - [ ] size() - returns number of data elements in list
-        - [ ] empty() - bool returns true if empty
-        - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
-        - [ ] push_front(value) - adds an item to the front of the list
-        - [ ] pop_front() - remove front item and return its value
-        - [ ] push_back(value) - adds an item at the end
-        - [ ] pop_back() - removes end item and returns its value
-        - [ ] front() - get value of front item
-        - [ ] back() - get value of end item
-        - [ ] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
-        - [ ] erase(index) - removes node at given index
-        - [ ] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
-        - [ ] reverse() - reverses the list
-        - [ ] remove_value(value) - removes the first item in the list with this value
-    - [ ] Doubly-linked List
+    - [x] implement (I did with tail pointer & without):
+        - [x] size() - returns number of data elements in list
+        - [x] empty() - bool returns true if empty
+        - [x] value_at(index) - returns the value of the nth item (starting at 0 for first)
+        - [x] push_front(value) - adds an item to the front of the list
+        - [x] pop_front() - remove front item and return its value
+        - [x] push_back(value) - adds an item at the end
+        - [x] pop_back() - removes end item and returns its value
+        - [x] front() - get value of front item
+        - [x] back() - get value of end item
+        - [x] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
+        - [x] erase(index) - removes node at given index
+        - [x] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
+        - [x] reverse() - reverses the list
+        - [x] remove_value(value) - removes the first item in the list with this value
+    - [x] Doubly-linked List
         - [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
         - No need to implement
 
 - ### Stack
-    - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
-    - [ ] [Using Stacks Last-In First-Out (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html)
-    - [ ] Will not implement. Implementing with array is trivial.
+    - [x] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
+    - [x] [Using Stacks Last-In First-Out (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html)
+    - [x] Will not implement. Implementing with array is trivial.
 
 - ### Queue
-    - [ ] [Using Queues First-In First-Out(video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
-    - [ ] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
-    - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
-    - [ ] [Priority Queues (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html)
-    - [ ] Implement using linked-list, with tail pointer:
+    - [x] [Using Queues First-In First-Out(video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
+    - [x] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
+    - [x] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
+    - [x] [Priority Queues (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html)
+    - [x] Implement using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
         - empty()
-    - [ ] Implement using fixed-sized array:
+    - [x] Implement using fixed-sized array:
         - enqueue(value) - adds item at end of available storage
         - dequeue() - returns value and removes least recently added element
         - empty()
         - full()
-    - [ ] Cost:
+    - [x] Cost:
         - a bad implementation using linked list where you enqueue at head and dequeue at tail would be O(n)
             because you'd need the next to last element, causing a full traversal each dequeue
         - enqueue: O(1) (amortized, linked list and array [probing])
@@ -617,23 +617,23 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - empty: O(1) (linked list and array)
 
 - ### Hash table
-    - [ ] Videos:
-        - [ ] [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
-        - [ ] [Table Doubling, Karp-Rabin (video)](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-        - [ ] [Open Addressing, Cryptographic Hashing (video)](https://www.youtube.com/watch?v=rvdJDijO2Ro&index=10&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-        - [ ] [PyCon 2010: The Mighty Dictionary (video)](https://www.youtube.com/watch?v=C4Kc8xzcA68)
-        - [ ] [(Advanced) Randomization: Universal & Perfect Hashing (video)](https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=11)
-        - [ ] [(Advanced) Perfect hashing (video)](https://www.youtube.com/watch?v=N0COwN14gt0&list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9&index=4)
+    - [x] Videos:
+        - [x] [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
+        - [x] [Table Doubling, Karp-Rabin (video)](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+        - [x] [Open Addressing, Cryptographic Hashing (video)](https://www.youtube.com/watch?v=rvdJDijO2Ro&index=10&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+        - [x] [PyCon 2010: The Mighty Dictionary (video)](https://www.youtube.com/watch?v=C4Kc8xzcA68)
+        - [x] [(Advanced) Randomization: Universal & Perfect Hashing (video)](https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=11)
+        - [x] [(Advanced) Perfect hashing (video)](https://www.youtube.com/watch?v=N0COwN14gt0&list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9&index=4)
 
-    - [ ] Online Courses:
-        - [ ] [Understanding Hash Functions (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Understanding-hash-functions/149042/177126-4.html)
-        - [ ] [Using Hash Tables (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-hash-tables/149042/177127-4.html)
-        - [ ] [Supporting Hashing (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Supporting-hashing/149042/177128-4.html)
-        - [ ] [Language Support Hash Tables (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Language-support-hash-tables/149042/177129-4.html)
-        - [ ] [Core Hash Tables (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
-        - [ ] [Data Structures (video)](https://www.coursera.org/learn/data-structures/home/week/3)
-        - [ ] [Phone Book Problem (video)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem)
-        - [ ] distributed hash tables:
+    - [x] Online Courses:
+        - [x] [Understanding Hash Functions (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Understanding-hash-functions/149042/177126-4.html)
+        - [x] [Using Hash Tables (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-hash-tables/149042/177127-4.html)
+        - [x] [Supporting Hashing (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Supporting-hashing/149042/177128-4.html)
+        - [x] [Language Support Hash Tables (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Language-support-hash-tables/149042/177129-4.html)
+        - [x] [Core Hash Tables (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
+        - [x] [Data Structures (video)](https://www.coursera.org/learn/data-structures/home/week/3)
+        - [x] [Phone Book Problem (video)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem)
+        - [x] distributed hash tables:
             - [Instant Uploads And Storage Optimization In Dropbox (video)](https://www.coursera.org/learn/data-structures/lecture/DvaIb/instant-uploads-and-storage-optimization-in-dropbox)
             - [Distributed Hash Tables (video)](https://www.coursera.org/learn/data-structures/lecture/tvH8H/distributed-hash-tables)
 
